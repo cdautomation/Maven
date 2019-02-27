@@ -1,0 +1,25 @@
+<component-set>
+  <components>
+    <component>
+      <role>org.apache.maven.cli.configuration.ConfigurationProcessor</role>
+      <role-hint>settings</role-hint>
+      <implementation>org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor</implementation>
+      <description></description>
+      <isolated-realm>false</isolated-realm>
+      <requirements>
+        <requirement>
+          <role>org.slf4j.Logger</role>
+          <field-name>logger</field-name>
+        </requirement>
+        <requirement>
+          <role>org.apache.maven.settings.building.SettingsBuilder</role>
+          <field-name>settingsBuilder</field-name>
+        </requirement>
+        <requirement>
+          <role>org.apache.maven.settings.crypto.SettingsDecrypter</role>
+          <field-name>settingsDecrypter</field-name>
+        </requirement>
+      </requirements>
+    </component>
+  </components>
+</component-set>

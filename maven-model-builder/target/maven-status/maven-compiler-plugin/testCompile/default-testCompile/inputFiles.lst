@@ -1,0 +1,14 @@
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/StringSearchModelInterpolatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/path/DefaultUrlNormalizerTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/SimpleProblemCollector.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/FileModelSourceTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/PropertyProfileActivatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/ComplexActivationTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/AbstractModelInterpolatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/merge/MavenModelMergerTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/MavenBuildTimestampTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/inheritance/DefaultInheritanceAssemblerTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/AbstractProfileActivatorTest.java
+/Users/lokeswarreddy/Desktop/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/DefaultModelBuilderFactoryTest.java

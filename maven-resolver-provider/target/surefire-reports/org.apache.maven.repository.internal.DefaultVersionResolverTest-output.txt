@@ -1,0 +1,13 @@
+Aether Repository - metadataResolving: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from /Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/local-repo (enhanced)
+Aether Repository - metadataResolved: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from /Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/local-repo (enhanced)
+Aether Repository - metadataResolving: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from repo (file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/org/apache/maven/its/dep-mng5324/07.20.3-SNAPSHOT/maven-metadata.xml
+Aether Transfer - transferProgressed: 2/2 KB   [main] WARN org.eclipse.aether.internal.impl.WarnChecksumPolicy - Could not validate integrity of download from file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/org/apache/maven/its/dep-mng5324/07.20.3-SNAPSHOT/maven-metadata.xml: Checksum validation failed, no checksums available
+Aether Transfer - transferCorrupted: class org.eclipse.aether.transfer.ChecksumFailureException: Checksum validation failed, no checksums available
+         
+Aether Transfer - transferSucceeded: Downloaded: file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/org/apache/maven/its/dep-mng5324/07.20.3-SNAPSHOT/maven-metadata.xml (2 KB at 23.3 KB/sec)
+Aether Repository - metadataResolved: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from repo (file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from /Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/local-repo (enhanced)
+Aether Repository - metadataResolved: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from /Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/local-repo (enhanced)
+Aether Repository - metadataResolving: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from repo (file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: org.apache.maven.its:dep-mng5324:07.20.3-SNAPSHOT/maven-metadata.xml from repo (file:/Users/lokeswarreddy/Desktop/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
